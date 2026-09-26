@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Xed-Editor/Xed-Schemas/main/theme-manifest.json",
+  "id": "com.initsyscall.themeinit_xed",
+  "name": "themeInit",
+  "version": "1.0.0",
+  "description": "Deep purples and soothing colors",
+  "type": "theme",
+  "author": {
+    "displayName": "initsyscall"
+  },
+  "repository": "https://codeberg.org/initsyscall/themeInit-xed",
+  "license": "Apache 2.0",
+  "tags": [],
+  "minAppVersion": 87,
+  "inheritBase": false
+}
